@@ -3,12 +3,12 @@
 const listOfServices = [
  {
   title: "Lorem ipsum dolor sit",
-  image: "../images/Save on it Spend.svg",
+  image: "../images/SaveonitSpend.svg",
   description: "consectetur adipisici elit, sed eiusmod",
  },
  {
   title: "Lorem ipsum dolor sit2",
-  image: "../images/Say yes to BYOD.svg",
+  image: "../images/SayyestoBYOD.svg",
   description: "consectetur adipisici elit, sed eiusmod",
  },
  {

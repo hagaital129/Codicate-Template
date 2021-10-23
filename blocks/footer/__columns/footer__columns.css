@@ -4,3 +4,15 @@
   margin: 0 auto;
   width: 900px;
 }
+
+@media screen and (max-width: 900px) {
+  .footer__columns {
+    width: 700px;
+  }
+}
+
+@media screen and (max-width: 610px) {
+  .footer__columns {
+    width: 600px;
+  }
+}

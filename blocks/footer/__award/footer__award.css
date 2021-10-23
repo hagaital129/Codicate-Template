@@ -2,3 +2,10 @@
   width: 75px;
   padding: 10px 0;
 }
+
+ 
+ @media screen and (max-width: 610px) {
+   .footer__award {
+     width: 50px;
+   }
+ }

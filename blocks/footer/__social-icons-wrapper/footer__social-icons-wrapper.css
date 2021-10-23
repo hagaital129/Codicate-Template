@@ -1,5 +1,13 @@
 .footer__social-icons-wrapper {
   list-style-type: none;
   display: flex;
+  justify-content: end;
   margin: 0 auto;
 }
+
+
+@media screen and (max-width: 900px) {
+  .footer__social-icons-wrapper {
+    flex-direction: column;
+  }
+ }

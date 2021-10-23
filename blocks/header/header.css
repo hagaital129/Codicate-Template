@@ -1,8 +1,9 @@
 .header {
   background-color: #ececec;
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   border-bottom: 2px gray solid;
+  box-sizing: border-box;
   display: flex;
   flex-direction: row;
   justify-content: space-between;

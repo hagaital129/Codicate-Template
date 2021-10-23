@@ -1,9 +1,8 @@
 .page {
- background-color: #fff;
- margin: 0 auto;
- font-family: "Inter", sans-serif;
- min-width: 1100px;
- -moz-osx-font-smoothing: grayscale;
- -webkit-font-smoothing: antialiased;
- 
+  background-color: #fff;
+  margin: 0 auto;
+  font-family: "Inter", sans-serif;
+  min-width: 900px;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
 }

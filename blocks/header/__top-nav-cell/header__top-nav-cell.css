@@ -1,4 +1,10 @@
 .header__top-nav-cell {
-  padding: 0 10px;
+  padding: 30px;
   cursor: pointer;
+  font-weight: 600;
+}
+
+.header__top-nav-cell:hover {
+  color: white;
+  background-color: #a127fe;
 }

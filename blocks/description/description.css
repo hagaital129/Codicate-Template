@@ -1,9 +1,9 @@
-.description{
- min-width: 784px;
- margin: 50px 0;
- display: flex;
- position: relative;
- align-items: center;
- justify-content: center;
- flex-direction: column;
+.description {
+  min-width: 784px;
+  margin: 50px 0;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }

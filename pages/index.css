@@ -55,3 +55,6 @@
 @import url(../blocks/footer/__award/footer__award.css);
 @import url(../blocks/footer/__social-image/footer__social-image.css);
 @import url(../blocks/footer/__list-cell/footer__list-cell.css);
+
+@import url(../blocks/description/column_color/column_color.css);
+

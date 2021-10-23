@@ -1,9 +1,9 @@
-.cta{
- min-height: 350px;
- margin-bottom: 80px;
- min-width: 784px;
- display: flex;
- flex-direction: column;
- position: relative;
- color: white;
+.cta {
+  min-height: 350px;
+  margin-bottom: 80px;
+  min-width: 784px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  color: white;
 }

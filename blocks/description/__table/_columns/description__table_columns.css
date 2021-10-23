@@ -1,4 +1,6 @@
 .description__table_columns{
  width: 30%;
  padding: 20px;
+ border: none;
+ margin: 0;
 }

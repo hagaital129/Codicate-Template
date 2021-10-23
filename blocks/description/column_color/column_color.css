@@ -1,0 +1,10 @@
+.clear {
+}
+
+.light-blur {
+  background-color: rgba(192, 192, 192, 0.1);
+}
+
+.blur {
+  background-color: rgba(192, 192, 192, 0.2);
+}

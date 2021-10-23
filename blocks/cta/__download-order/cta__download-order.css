@@ -1,13 +1,13 @@
-.cta__download-order{
- width: 100%;
- display: grid;
- grid-template-columns: 1fr 1fr;
- grid-template-rows: auto auto 1fr;
- grid-template-areas:
-     "title img"
-     "sub img"
-     "text img"
-     "btn img";
- grid-gap: 20px 20px;
- margin: 0 0 0px;
+.cta__download-order {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto 1fr;
+  grid-template-areas:
+    "title img"
+    "sub img"
+    "text img"
+    "btn img";
+  grid-gap: 20px 20px;
+  margin: 0 0 0px;
 }

@@ -1,0 +1,15 @@
+.cta__download-img {
+  grid-area: img;
+  width: 100%;
+  background-image: url("../../../images/book.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  z-index: 0;
+}
+
+@media screen and (max-width: 900px) {
+  .cta__download-img {
+    width: 60%;
+  }
+}

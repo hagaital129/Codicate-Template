@@ -1,0 +1,11 @@
+.section-title {
+  color: #a127fe;
+  margin: 0 auto;
+  font-size: 40px;
+}
+
+@media screen and (max-width: 610px) {
+  .section-title {
+    font-size: 30px;
+  }
+}

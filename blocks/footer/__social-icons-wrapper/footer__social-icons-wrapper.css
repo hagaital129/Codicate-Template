@@ -1,0 +1,5 @@
+.footer__social-icons-wrapper {
+  list-style-type: none;
+  display: flex;
+  margin: 0 auto;
+}

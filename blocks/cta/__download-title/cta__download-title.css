@@ -1,0 +1,4 @@
+.cta__download-title{
+ grid-area: title;
+ width: 100%;
+}

@@ -1,0 +1,25 @@
+.top-screen__services{
+  list-style: none;
+  display: grid;
+  grid-template-rows: repeat(1, 1fr);
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 17px;
+  padding: 0;
+}
+
+@media screen and (max-width: 880px) {
+ .top-screen__services {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-gap: 10px;
+  }
+}
+
+@media screen and (max-width: 610px) {
+ .top-screen__services {
+    display: flex;
+    flex-direction: column;
+    grid-gap: 20px;
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,5 @@
+.cta__download-sub{
+ grid-area: sub;
+ color: black;
+ width: 100%;
+}

@@ -1,0 +1,16 @@
+.cta__contact-wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 900px) {
+  .cta__contact-wrapper {
+    width: 700px;
+  }
+}
+
+@media screen and (max-width: 610px) {
+  .cta__contact-wrapper {
+    width: 600px;
+  }
+}

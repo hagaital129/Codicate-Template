@@ -1,0 +1,25 @@
+.cta__contact_button {
+  position: absolute;
+  right: 280px;
+  top: 170px;
+  color: #a127fe;
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  border: none;
+}
+
+@media screen and (max-width: 900px) {
+  .cta__contact_button {
+    right: 220px;
+    top: 200px;
+  }
+}
+
+@media screen and (max-width: 610px) {
+  .cta__contact_button {
+    right: 230px;
+    top: 250px;
+  }
+}

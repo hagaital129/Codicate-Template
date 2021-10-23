@@ -1,0 +1,13 @@
+.top-screen {
+  background-image: url("../../images/Header_BG.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  border-bottom: 2px #EFEFEF solid;
+  min-width: 784px;
+}

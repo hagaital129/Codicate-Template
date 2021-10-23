@@ -1,0 +1,17 @@
+.cta__download {
+  display: flex;
+  max-width: 900px;
+  margin: 90px auto 0;
+}
+
+@media screen and (max-width: 900px) {
+  .cta__download {
+    width: 700px;
+  }
+}
+
+@media screen and (max-width: 610px) {
+  .cta__download {
+    width: 600px;
+  }
+}

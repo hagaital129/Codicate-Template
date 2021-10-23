@@ -1,0 +1,9 @@
+.service {
+  border: none;
+  margin: 0 auto;
+  color: #000000;
+  position: relative;
+  min-width: 200px;
+  width: 250px;
+  text-align: center;
+}

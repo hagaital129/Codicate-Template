@@ -1,0 +1,23 @@
+.cta__download-button{
+ grid-area: btn;
+ color: white;
+ background-color: #A127FE;
+ padding: 10px 20px;
+ border-radius: 5px;
+ font-weight: bold;
+ border: none;
+ width: 30%;
+ text-align: center;
+}
+
+@media screen and (max-width: 900px) {
+ .cta__download-button {
+   width: 50%;
+ }
+}
+
+@media screen and (max-width: 610px) {
+ .cta__download-button {
+   width: 60%;
+ }
+}
